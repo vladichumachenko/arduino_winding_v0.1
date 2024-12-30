@@ -50,3 +50,12 @@
 #define LANGUAGE            RU           // EN, RU
 //#define DEBUG
 #define TRANSFORMER_COUNT   3            // 36 max
+
+
+// Кнопки для калькулятора слоев  
+#define BTN_UP 1  
+#define BTN_DOWN 2  
+#define BTN_LEFT 3  
+#define BTN_RIGHT 4  
+#define BTN_OK 5  
+#define BTN_BACK 6
