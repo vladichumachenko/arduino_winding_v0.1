@@ -7,6 +7,9 @@
 #define CH_QR 0x3E
 #define CH_CR 0x3E
 
+// В секции определения ID пунктов меню  
+#define MENU_LAYER_CALC 5  // или другой свободный номер 
+
 class MenuItem {
 public:
   byte screen;  // Индекс экрана
